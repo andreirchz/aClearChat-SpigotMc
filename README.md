@@ -1,6 +1,8 @@
 # aClearChat
 aClearChat issa fully updated, configurable and useful chat management plugin which allows your staff to clear and disable the global chat just with a simple command: /clearchat or /togglechat.
 
+## This plugin is open-source.
+The code of the plugin is the 
 ## Suggestions 
 Do you have a suggestion? https://github.com/andreirchz/aClearChat-SpigotMc/issues
 ## Useful Links
